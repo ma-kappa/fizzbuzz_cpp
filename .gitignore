@@ -1,3 +1,7 @@
+# Build and target directories
+obj/
+bin/
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,6 @@
 *.exe
 *.out
 *.app
+
+# VSCode Directory
+.vscode/
